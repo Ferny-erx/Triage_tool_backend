@@ -1,0 +1,9 @@
+2024-11-17 21:10:44,778 - INFO - Starting forensics triage session at 20241117_211044
+2024-11-17 21:10:44,778 - ERROR - Error retrieving system information: argument 1 (impossible<bad format char>)
+2024-11-17 21:10:44,788 - WARNING - No YARA rule files found in C:\Users\Sujal sen\Desktop\forensics_tool\yara_rules
+2024-11-17 21:10:44,788 - INFO - Starting network scan on target 192.168.1.0/24...
+2024-11-17 21:10:47,416 - INFO - ARP scan discovered 4 devices
+2024-11-17 21:10:47,440 - INFO - Network scan completed.
+2024-11-17 21:10:47,440 - INFO - Results saved to results\20241117_211044\forensics_results.json
+2024-11-17 21:10:47,518 - ERROR - Error creating network visualizations: Value of 'lat' is not the name of a column in 'data_frame'. Expected one of ['ip', 'mac', 'timestamp'] but received: latitude
+2024-11-17 21:10:47,518 - INFO - Forensics triage completed successfully.
