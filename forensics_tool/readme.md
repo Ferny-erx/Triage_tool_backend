@@ -17,8 +17,8 @@ A comprehensive, flexible, and extensible forensics analysis tool designed for i
 
 ### Setup
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/forensics-tool.git
+# Clone th[e repository
+git clone https://github.com/Ferny-erx/Triage_tool_backend.git
 cd forensics-tool
 
 # Create a virtual environment
